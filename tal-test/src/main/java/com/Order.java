@@ -6,7 +6,7 @@ package com;
 
 public class Order implements java.io.Serializable {
 
-    static final long serialVersionUID = 5L;
+    static final long serialVersionUID = 6L;
 
     public Order() {
     	
